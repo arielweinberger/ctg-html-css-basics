@@ -1,0 +1,16 @@
+#about {
+  background: red;
+}
+
+#contact {
+  background: blue;
+}
+
+.section {
+  border: 2px dashed black;
+}
+
+.thumbnail {
+  width: 100px;
+  height: 100px;
+}

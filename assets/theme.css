@@ -1,0 +1,24 @@
+* {
+  font-family: 'Arial';
+}
+
+.btn {
+  color: white;
+  border: 0;
+  background: #dbdbdb;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background: #3271bf;
+}
+
+.btn-danger {
+  background: #bf3232;
+}
